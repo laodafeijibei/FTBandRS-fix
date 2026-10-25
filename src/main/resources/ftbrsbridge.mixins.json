@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.seagull.ftbrsbridge.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "TaskSubmitMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
